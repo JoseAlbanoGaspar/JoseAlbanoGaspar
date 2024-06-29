@@ -28,7 +28,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">LDTS</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-LDTS">LDTS</a></td>
       <td>Asteroids</td>
       <td>Developement of the asteroids game, using adequate design patterns</td>
       <td>20.0</td>
