@@ -82,7 +82,7 @@
       <td>18.3</td>
     </tr>
     <tr>
-      <td><a href="#">AED</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/STCPGraphProject">AED</a></td>
       <td>useSTCP</td>
       <td>Computes best routes to move around Porto using STCP stops as reference</td>
       <td>18.3</td>
