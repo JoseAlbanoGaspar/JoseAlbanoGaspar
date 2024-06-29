@@ -52,49 +52,49 @@
       <td>19.0</td>
     </tr>
     <tr>
-      <td><a href="#">BDNR</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-BDNR">BDNR</a></td>
       <td>TickETCD</td>
       <td>A ticket shop using the ETCD distributed database</td>
       <td>19.0</td>
     </tr>
     <tr>
-      <td><a href="#">SGI</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-SGI">SGI</a></td>
       <td>FEUP Turismo</td>
       <td>The famous grand turismo game, but better xD</td>
       <td>18.6</td>
     </tr>
     <tr>
-      <td><a href="#">CG</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-CG">CG</a></td>
       <td>Asdrúbal the bird</td>
       <td>Building an interactive scenario using WebGL </td>
       <td>18.5</td>
     </tr>
     <tr>
-      <td><a href="#">PFL</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-PFL">PFL</a></td>
       <td>Moxie</td>
       <td>Ancient board game with Prolog</td>
       <td>18.4</td>
     </tr>
     <tr>
-      <td><a href="#">CAC</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-CAC">CAC</a></td>
       <td>Review analysis</td>
       <td>Creation of a recommendation system and its social network analysis</td>
       <td>18.3</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/JoseAlbanoGaspar/STCPGraphProject">AED</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-AED">AED</a></td>
       <td>useSTCP</td>
       <td>Computes best routes to move around Porto using STCP stops as reference</td>
       <td>18.3</td>
     </tr>
     <tr>
-      <td><a href="#">LBAW</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-LBAW">LBAW</a></td>
       <td>hELP</td>
       <td>Q&A website using laravel framework</td>
       <td>18.0</td>
     </tr>
     <tr>
-      <td><a href="#">LCOM</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-LCOM">LCOM</a></td>
       <td>Snake Game Invasion</td>
       <td>Mix of snake and space invaders game developed in C. All devices (timers, keyboard, mouse, etc) are programmed using low level techniques</td>
       <td>18.0</td>
@@ -112,7 +112,7 @@
       <td>18.0</td>
     </tr>
     <tr>
-      <td><a href="#">RCOM</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-RCOM">RCOM</a></td>
       <td>Serial Port transfer</td>
       <td>Simple, yet robust program for sharing files via serial port</td>
       <td>18.0</td>
