@@ -34,13 +34,13 @@
       <td>20.0</td>
     </tr>
     <tr>
-      <td><a href="#">AC</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-AC">AC</a></td>
       <td>Basketball Playoff Prediction</td>
       <td>Using machine learning to predict which teams are going to the playoffs</td>
       <td>19.3</td>
     </tr>
     <tr>
-      <td><a href="#">COMP</a></td>
+      <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-COMP">COMP</a></td>
       <td>JMM</td>
       <td>Simple compiler for the Java-- language </td>
       <td>19.25</td>
