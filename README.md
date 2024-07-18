@@ -91,7 +91,7 @@
       <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-LBAW">LBAW</a></td>
       <td>hELP</td>
       <td>Q&A website using laravel framework</td>
-      <td>18.0</td>
+      <td>18.2</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JoseAlbanoGaspar/FEUP-LCOM">LCOM</a></td>
