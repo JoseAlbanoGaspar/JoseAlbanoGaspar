@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm José Gaspar</h1>
 <h3 align="center">A passionate Computer Science student, currently on the master's at FEUP.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josealbanogaspar&label=Profile%20views&color=0e75b6&style=flat" alt="josealbanogaspar" /> </p>
-
 - 🌱 I’m currently learning **React, Machine Learning**
 
 - 📫 How to reach me **albanogasparwork@gmail.com**
